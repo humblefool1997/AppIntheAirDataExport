@@ -5,7 +5,7 @@ import "./global.css"
 export default function Page() {
     return (
         <>
-        <Header/>
+<Header></Header>
         <p>As you are aware App in the Air app was shutdown on 19th October 2024. Many of users missed to export flight data to data.txt. 
           This web app helps to generate data.txt file import to other apps 
           such as Flightly
@@ -15,7 +15,7 @@ export default function Page() {
          <p>Add Flight</p>
          </button>
          <FlightList/>
-         <Footer></Footer>
+<Footer></Footer>
           </>
         
     )
