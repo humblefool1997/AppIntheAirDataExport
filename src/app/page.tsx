@@ -1,4 +1,5 @@
-import Header from "./components/header"
+import Header from "./components/header";
+
 import "./global.css"
 export default function Page() {
     return (
