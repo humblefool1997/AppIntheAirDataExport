@@ -1,5 +1,5 @@
-import "./global.css"
 import Header from "./components/header"
+import "./global.css"
 export default function Page() {
     return (
         <>
